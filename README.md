@@ -26,3 +26,17 @@ python mini_tools.py
 
 ## Purpose of the Project
 This project was created as part of my learning journey in Python programming to strengthen problem-solving and logic building skills.
+
+## Example Output
+
+---- Python Mini Tools ----
+1. Calculator
+2. Password Generator
+3. Guess Game
+4. Exit
+
+Choose option: 1
+Enter first number: 5
+Enter operator (+, -, *, /): *
+Enter second number: 6
+Result: 30
