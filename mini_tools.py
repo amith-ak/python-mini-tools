@@ -71,4 +71,7 @@ def menu():
         else:
             print("Invalid choice")
 
+
 menu()
+
+# Created by Amith Ajith Kumar as part of Python practice
